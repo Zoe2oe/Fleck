@@ -1,0 +1,8 @@
+C:\Users\Edward\Documents\Visual Studio 2017\Projects\Fleck\Fleck\bin\Debug\net45\Fleck.dll
+C:\Users\Edward\Documents\Visual Studio 2017\Projects\Fleck\Fleck\bin\Debug\net45\Fleck.pdb
+C:\Users\Edward\Documents\Visual Studio 2017\Projects\Fleck\Fleck\obj\Debug\net45\Fleck.csprojAssemblyReference.cache
+C:\Users\Edward\Documents\Visual Studio 2017\Projects\Fleck\Fleck\obj\Debug\net45\Fleck.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Visual Studio 2017\Projects\Fleck\Fleck\obj\Debug\net45\Fleck.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Visual Studio 2017\Projects\Fleck\Fleck\obj\Debug\net45\Fleck.AssemblyInfo.cs
+C:\Users\Edward\Documents\Visual Studio 2017\Projects\Fleck\Fleck\obj\Debug\net45\Fleck.dll
+C:\Users\Edward\Documents\Visual Studio 2017\Projects\Fleck\Fleck\obj\Debug\net45\Fleck.pdb
